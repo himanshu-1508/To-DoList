@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="add_btn">add btn</string>
+    <string name="delete_all">Delete All</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="btn_cancel_txt">Cancel</string>
+    <string name="add_task_txt">ADD TASK</string>
+    <string name="btn_save_txt">Save</string>
+    <string name="edit_task_txt">Edit Task</string>
+    <string name="btn_update_txt">Update</string>
+</resources>
